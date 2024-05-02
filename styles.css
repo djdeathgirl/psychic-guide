@@ -38,3 +38,9 @@ footer {
     background-color: #007bff;
     color: #fff;
 }
+.project img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
